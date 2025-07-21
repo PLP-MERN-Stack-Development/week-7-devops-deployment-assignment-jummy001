@@ -70,9 +70,10 @@ Your work will be automatically submitted when you push to your GitHub Classroom
 
 ## Resources
 
-- [GitHub Actions Documentation](https://docs.github.com/en/actions)
-- [MongoDB Atlas Documentation](https://docs.atlas.mongodb.com/)
-- [Render Documentation](https://render.com/docs)
-- [Railway Documentation](https://docs.railway.app/)
-- [Vercel Documentation](https://vercel.com/docs)
-- [Netlify Documentation](https://docs.netlify.com/) 
+- [GitHub Actions Documentation](https://github.com/jummy001/Mentorship_Deployment.git)
+- [MongoDB Atlas Documentation](MONGO_URI=mongodb+srv://jumoke_user:TestUser123%21@cluster0.iu2axie.mongodb.net/mentorship-platform?retryWrites=true&w=majority
+JWT_SECRET=testsecret
+)
+- [Render Documentation](https://mentorship-deployment.onrender.com)
+- [Vercel Documentation](https://vercel.com/ajibola-jumoke-hamdalats-projects/mentorship-deployment)
+- Google drive demo:(https://drive.google.com/file/d/18ALKkCTt5FOKmNgXwY7D_Ib9e1_--P_Q/view?usp=sharing)
